@@ -6,7 +6,7 @@
 ### <div align="center">I'm ClasherKasten, a school student (hopefully graduating next year 😅)</div>  
   
 
-- 🔭 Currently i try to work as much as possible on [Athena's Chaos Driven Code](http://github.com/Athena-Chaos-Driven-Code/) projects.
+- 🔭 Currently I don't have any work I especially focus on, but some of my probably most frequent visited projects are pinned.
   
 
 - 🌱 My main goals are trying to learn more about Python (standard library, compatability, as well as cool libraries (such as [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy)) and helpful tools (like [MyPy](https://github.com/python/mypy))). I also try to improve my workflow with [Git](https://git-scm.com/) and [Docker](https://www.docker.com/).  
