@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm ClasherKasten, a school student (hopefully graduating next year 😅)</div>  
+### <div align="center">I'm ClasherKasten, student at the DHBW Mannheim</div>  
   
 
 - 🔭 Currently I don't have any work I especially focus on, but some of my probably most frequent visited projects are pinned.
